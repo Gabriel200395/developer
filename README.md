@@ -19,7 +19,7 @@
 - [React](https://pt-br.reactjs.org/)
 - [styled Components](https://styled-components.com)
 - [aos](https://michalsnik.github.io/aos)
-- [react Scrol](https://www.npmjs.com/package/react-scroll)
+- [react Scroll](https://www.npmjs.com/package/react-scroll)
 
 ## :page_facing_up: Sobre
 
