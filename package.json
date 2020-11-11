@@ -8,15 +8,11 @@
     "@testing-library/user-event": "^7.2.1",
     "aos": "^3.0.0-beta.6",
     "axios": "^0.19.2",
-    "com": "0.0.5",
-    "formik": "^2.1.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-flexbox-grid": "^2.1.2",
     "react-scripts": "3.4.1",
     "react-scroll": "^1.7.16",
     "styled-components": "^5.1.1",
-    "yup": "^0.29.1"
   },
   "scripts": {
     "start": "react-scripts start",
