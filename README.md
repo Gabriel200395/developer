@@ -2,7 +2,7 @@
    <body>
   <h1 align="center">Cadastro de Livro</h1>
 <h4 align="center">
-  <img src="./public/images/portfolio.gif"  /><br>
+  <img src="./public/Images/portfolio.gif"  /><br>
 </h4>
 
 <p align="center">
