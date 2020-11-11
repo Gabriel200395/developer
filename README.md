@@ -24,15 +24,15 @@
 ## :page_facing_up: Sobre
 
 
-Desenvolver esse projeto para cadastra os pedidos dos livros dos alunos no banco, 
-caso ele queira modificar os seus pedidos ele poderia modificar e excluir, com base nisso desenvolver
-o front-end em react utilizando os hooks useContext, useState deixando a nossa  aplicação mais
-moderna e entendível e passando as responsabilidades para o nossos componentes fazer a chamada para Api.
-               
+Desenvolver esse projeto para aprimorar meus conhecimentos em front-end utilizando
+o styled-component e usando umas bibliotecas com uns efeitos bem legais, e estilizando uns efeitos
+em CSS e JS.
+
+
 ## 💻 Como usar
 
-- Clone o projeto: `git clone https://github.com/Gabriel200395/cadastro-livro.git`
-- Entrar na pasta do projeto: `cd cadastro-livro`
+- Clone o projeto: `git clonehttps://github.com/Gabriel200395/developer.git`
+- Entrar na pasta do projeto: `cd developer`
 - Iniciar a aplicação: `npm start`
 - baixe na aplicação: `npm install`
 
