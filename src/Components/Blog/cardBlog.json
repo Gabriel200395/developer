@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1, 
+        "url":"/images/React_card.png",
+        "alt":"React",
+        "title":"React JS",
+        "descricao":"Conheçam sobre essa tecnologia, que criar aplicações poderosas, e que vem crescendo cada  vez mais no mercado, com isso a linguagem oferecer varias vantagens.",
+        "button": "Ver Documentário"
+    },
+
+
+    {
+        "id": 2, 
+        "url":"/images/node.png", 
+        "alt":"node",
+        "title":"Node",
+        "descricao":"Conheçam sobre essa tecnologia, que mudar forma de trabalhar na parte do back-end, e que vem inovando o mercado e crescendo com novas metodologias.",
+        "button": "Ver Documentário"
+    },
+    
+    
+    {
+        "id": 3, 
+        "url":"/images/materialize.png",
+        "alt":"materialize", 
+        "title":"Materialize",
+        "descricao": "Conheçam sobre esse framework css que criar layoults rapidos e flexiveis, que pode ajudar voce bastante na entregar dos seus projetos dando praticidade maior.",
+        "button": "Ver Documentário"
+    }
+]

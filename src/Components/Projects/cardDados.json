@@ -1,0 +1,52 @@
+[
+
+{
+
+  "id":1, 
+  "title":"REACT JS", 
+  "descricao":"Olá, conheçam um pouco sobre essa tecnologia que utilizei nesse projeto, que vem inovando cada vez mais o mercado.",
+   "url":"/Images/react.png", 
+   "alt":"react", 
+   "video":"Ver Video", 
+   "videoUrl":""
+
+   
+
+},
+
+{
+
+    "id":2, 
+    "title":"NODE JS", 
+    "descricao":"Olá, conheçam um pouco sobre essa tecnologia que vem mudando a forma de nós trabalhar na parte do back-end.",
+    "url":"/Images/nodejs.png",
+    "alt":"node js", 
+    "video":"Ver Video", 
+    "videoUrl":""
+ 
+  
+  },
+
+
+  {
+
+    "id":3, 
+    "title":"HTML / CSS / JS", 
+    "descricao":"Olá, conheçam um pouco sobre essas tecnologias que utilizei nesse projeto, elas são a base para desenvolver um front-end.",
+    "url":"/Images/js.png",
+    "alt":"HTML/CSS/JS",
+    "video":"Ver Video", 
+    "videoUrl":""
+ 
+  }
+  
+
+
+
+
+
+
+
+
+
+]
