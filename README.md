@@ -1,6 +1,6 @@
 <html>
    <body>
-  <h1 align="center">Cadastro de Livro</h1>
+  <h1 align="center">Developer</h1>
 <h4 align="center">
   <img src="./public/Images/porffolio.gif"/><br>
 </h4>
@@ -17,9 +17,9 @@
 
 <!--EXEMPLO:-->
 - [React](https://pt-br.reactjs.org/)
-- [Axios](https://www.npmjs.com/package/axios)
-- [React Router](https://www.npmjs.com/package/react-router-dom)
-- [Materialize Css](https://materializecss.com/)
+- [styled Components](https://styled-components.com)
+- [aos](https://michalsnik.github.io/aos)
+- [react Scrol](https://www.npmjs.com/package/react-scroll)
 
 ## :page_facing_up: Sobre
 
