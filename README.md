@@ -17,9 +17,9 @@
 
 <!--EXEMPLO:-->
 - [React](https://pt-br.reactjs.org/)
-- [styled Components](https://styled-components.com)
-- [aos](https://michalsnik.github.io/aos)
-- [react Scroll](https://www.npmjs.com/package/react-scroll)
+- [Styled-Components](https://styled-components.com)
+- [Aos](https://michalsnik.github.io/aos)
+- [React Scroll](https://www.npmjs.com/package/react-scroll)
 
 ## :page_facing_up: Sobre
 
