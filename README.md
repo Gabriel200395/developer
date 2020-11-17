@@ -24,11 +24,7 @@
 ## :page_facing_up: Sobre
 
 
-Desenvolver esse projeto para aprimorar meus conhecimentos em front-end utilizando
-o styled-component e usando umas bibliotecas com uns efeitos bem legais, e estilizando uns efeitos
-em CSS e JS.
-
-
+Projeto que desenvolvi com o objetivo de implementar um Portfolio em ReactJS, utilizando os padrões mais atuais e de modo que a aplicação fique escalável. Com esse projeto pude aprimorar conhecimentos em ReactJS, tanto para controlar estados como para lidar com animações. Caso queira saber mais sobre o projeto, clique no botão abaixo.
 ## 💻 Como usar
 
 - Clone o projeto: `git clonehttps://github.com/Gabriel200395/developer.git`
